@@ -1,11 +1,6 @@
 @import url("./global.css");
 @import url("./header.css");
-@import url("introducao.css");
-
-footer {
-  background-color: #000;
-  width: 100%;
-  text-align: center;
-  padding: 2.5em;
-  box-sizing: border-box;
-}
+@import url("./introducao.css");
+@import url("./experiencia.css");
+@import url("./formacao.css");
+@import url("./footer.css");
